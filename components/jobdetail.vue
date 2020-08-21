@@ -1,0 +1,11 @@
+<template>
+    <div>
+        <h1>JobDetail</h1>
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'jobdetail'
+}
+</script>
