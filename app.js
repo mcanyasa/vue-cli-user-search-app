@@ -5,6 +5,7 @@ import VueResource from 'vue-resource';
 import moment from 'moment';
 
 
+
 Vue.config.productionTip = false;
 Vue.use(VueResource);
 
@@ -26,7 +27,7 @@ Vue.filter('formatDate', function (value) {
   
 
 
-new Vue({
+  const app = new Vue({
     render: h => h(Main),
     router: router
 }).$mount('#app');

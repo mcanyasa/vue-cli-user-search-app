@@ -1,9 +1,9 @@
 <template>
     <div>
     
-        <router-view></router-view>
+         <router-view></router-view>
         <p>
-            <router-link to="/Joblist">JobList</router-link>
+            <!--  <router-link to="/Joblist">JobList</router-link>  -->
             <!-- <router-link to="/Jobdetail">JobDetail</router-link> -->
         </p>
     </div>

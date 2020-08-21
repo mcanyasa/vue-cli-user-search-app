@@ -1,0 +1,88 @@
+[{
+    "version":"1.0",
+    "statusCode":200,
+    "result":{
+    "jobId":"C71CD1954BA149BCAF42B25F775EA4FB0",
+    "positionName":"gerber operatörü",
+    "companyName":"Vosyoyvsyvosyv",
+    "durationDay":1,
+    "durationDayText":"Taze çıktı!",
+    "imageUrl":"https://vuejs.org/images/logo.png",
+    "countryCode":"TR",
+    "countryName":"Turkey",
+    "cityName":"İstanbul",
+    "townName":"Ümraniye",
+    "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+    "postalCode":34768,
+    "hasLatitude":true,
+    "hasLongitude":true,
+    "latitude":41.0266502,
+    "longitude":29.1157803,
+    "description":"syovsvyosvyoyvsoby",
+    "status":1,
+    "contactPhone":{
+    "countryCallingCode":"+90",
+    "areaCode":"879",
+    "number":"9797979"
+    }
+    }
+},
+    {
+    "version":"2.0",
+    "statusCode":200,
+    "result":{
+    "jobId":"C71CD1954BA149BCAF42B25F775EA4FB1",
+    "positionName":"yazılım mühendisi",
+    "companyName":"Vosyoyvsyvosyv",
+    "durationDay":2,
+    "durationDayText":"Taze çıktı!",
+    "imageUrl":"https://vuejs.org/images/logo.png",
+    "countryCode":"TR",
+    "countryName":"Turkey",
+    "cityName":"İstanbul",
+    "townName":"Ümraniye",
+    "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+    "postalCode":34768,
+    "hasLatitude":true,
+    "hasLongitude":true,
+    "latitude":41.0266502,
+    "longitude":29.1157803,
+    "description":"syovsvyosvyoyvsoby",
+    "status":1,
+    "contactPhone":{
+    "countryCallingCode":"+90",
+    "areaCode":"879",
+    "number":"9797979"
+    }
+    }
+    },
+    {
+    "version":"3.0",
+    "statusCode":200,
+    "result":{
+    "jobId":"BCAF42B25F775EA4FB2",
+    "positionName":"insan kaynakları",
+    "companyName":"Vosyoyvsyvosyv",
+    "durationDay":3,
+    "durationDayText":"Taze çıktı!",
+    "imageUrl":"https://vuejs.org/images/logo.png",
+    "countryCode":"TR",
+    "countryName":"Turkey",
+    "cityName":"İstanbul",
+    "townName":"Ümraniye",
+    "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+    "postalCode":34768,
+    "hasLatitude":true,
+    "hasLongitude":true,
+    "latitude":41.0266502,
+    "longitude":29.1157803,
+    "description":"syovsvyosvyoyvsoby",
+    "status":1,
+    "contactPhone":{
+    "countryCallingCode":"+90",
+    "areaCode":"879",
+    "number":"9797979"
+    }
+    }
+    }
+]

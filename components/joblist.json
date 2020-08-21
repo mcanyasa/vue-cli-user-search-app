@@ -1,0 +1,50 @@
+[{
+    "version": "1.0",
+    "statusCode": 200,
+    "result": {
+        "items": [{
+            "jobId": "C71CD1954BA149BCAF42B25F775EA4FB0",
+            "positionName": "gerber operatörü",
+            "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+            "durationDay": 1,
+            "durationDayText": "Taze çıktı!",
+            "imageUrl": "https://vuejs.org/images/logo.png",
+            "distance": "8,53 km yakınında",
+            "latitude": 41.050968170166023,
+            "longitude": 29.062856674194339,
+            "cityName": "istanbul",
+            "townName": "Çengelköy Mahallesi"
+        },
+        {
+            "jobId": "C71CD1954BA149BCAF42B25F775EA4FB1",
+            "positionName": "yazılım mühendisi",
+            "companyName": "Soft AŞ.",
+            "durationDay": 2,
+            "durationDayText": "Taze çıktı!",
+            "imageUrl": "https://vuejs.org/images/logo.png",
+            "distance": "4,53 km yakınında",
+            "latitude": 41.050968170166023,
+            "longitude": 29.062856674194339,
+            "cityName": "ankara",
+            "townName": "Acıbadem Mahallesi"
+        },
+        {
+            "jobId": "BCAF42B25F775EA4FB2",
+            "positionName": "insan kaynakları",
+            "companyName": "Hardware AŞ.",
+            "durationDay": 3,
+            "durationDayText": "Taze çıktı!",
+            "imageUrl": "https://vuejs.org/images/logo.png",
+            "distance": "6,53 km yakınında",
+            "latitude": 41.050968170166023,
+            "longitude": 29.062856674194339,
+            "cityName": "istanbul",
+            "townName": "bostancı mahallesi"
+        }
+
+    ],
+        "total": 3
+    }
+}
+
+]

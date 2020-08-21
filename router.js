@@ -20,14 +20,10 @@ export default new Router({
             component: joblist,
         },
         {
-            path: '/jobdetail',
-            name: 'jobdetail',
-            component: jobdetail,
-        },
-        {
             path: '/jobdetail/:jobId',
             name: 'job',
-            component: jobdetail
+            component: jobdetail,
+            props: true
         },
         {
             path: '*',
